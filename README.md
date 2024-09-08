@@ -1,11 +1,21 @@
-🐶🐱 Busca Pet 🐶🐱
+🐶🐱  ## Busca Pet 🐶🐱
 
-Um guia para tutores de primeira viagem! Nele os donos podem pesquisar sobre suas principais dúvidas do mundo pet, desde vacinação, idade em que os pets devem ser vacinados, até alimentos tóxicos e comidas permitidas para pets!
+## Busca Pet 
 
-TECNOLOGIA UTILIZADA
-🐾 Html
-🐾 CSS
-🐾 Javascript
-🐾 Adobe Illustrator
+**Descrição:**
+
+Este é um projeto de busca, criado para auxiliar tutores de primeira viagem. A aplicação permite pesquisar pelas principais dúvidas que surgem na hora de ter um novo bichinho em casa! O projeto utiliza um campo de busca e exibe os resultados encontrados de forma clara e organizada.
+
+**Funcionalidades:**
+
+* **Pesquisa:** Permite pesquisar por pets utilizando palavras-chave como nome ou raça.
+* **Resultados:** Exibe os resultados da pesquisa em cards, com informações como nome, raça, idade e descrição do pet.
+
+**Tecnologias Utilizadas:**
+
+* **HTML:** Estrutura básica da página.
+* **CSS:** Estilização da página.
+* **JavaScript:** Lógica da aplicação, incluindo a funcionalidade de busca.
+
 
 Link: https://buscapet-opal.vercel.app/
